@@ -29,7 +29,7 @@ PGUSER=postgres
 PGPASSWORD=yourpassword
 PGDATABASE=passthesalt
 PORT=8080
-CLERK_SECRET_KEY=sk_test_PDXnC4byowNftxwEv8HnNGByXs9OfL8iHKKvOdJqXV
+CLERK_SECRET_KEY= got you
 ```
 
 Or use Railway's PostgreSQL:
@@ -41,7 +41,7 @@ PGUSER=your-pg-user
 PGPASSWORD=your-pg-password
 PGDATABASE=your-pg-database
 PORT=8080
-CLERK_SECRET_KEY=sk_test_PDXnC4byowNftxwEv8HnNGByXs9OfL8iHKKvOdJqXV
+CLERK_SECRET_KEY= got you again
 ```
 
 ### 2. Start Backend Locally
